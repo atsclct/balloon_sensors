@@ -1,5 +1,7 @@
 #!/usr/bin/python
 # -*- coding:utf-8 -*-
+# code for balloon package
+# atsclct  11.2023
 import uasyncio as asyncio
 import time
 import MPU925x #Gyroscope/Acceleration/Magnetometer
