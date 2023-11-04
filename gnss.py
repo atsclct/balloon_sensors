@@ -5,6 +5,7 @@
   @copyright Copyright (c) 2010 DFRobot Co.Ltd (http://www.dfrobot.com)
   @license The MIT License (MIT)
   @author [ZhixinLiu](zhixin.liu@dfrobot.com)
+   adapted to Pico by atsclct
   @version V1.0
   @date 2020-10-26
   @url https://github.com/DFRobot/DFRobot_GNSS
